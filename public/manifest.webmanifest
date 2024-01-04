@@ -1,7 +1,7 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "Brandon Baker Blog",
+	"short_name": "BBWORS",
+	"description": "Blogging portfolio for Brandon Baker",
 	"icons": [
 		{
 			"src": "/192x192.png",
