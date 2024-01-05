@@ -1,21 +1,21 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "Brandon Baker Blog",
+	"short_name": "BBWERKS",
+	"description": "Blogging/portfolio site for Brandon Baker",
 	"icons": [
 		{
-			"src": "/192x192.png",
+			"src": "/b192x192.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "/512x512.png",
+			"src": "/b512x512.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
 	],
 	"start_url": "/",
 	"background_color": "#1d1f21",
-	"theme_color": "#2bbc8a",
+	"theme_color": "##1d1f21",
 	"display": "standalone"
 }
