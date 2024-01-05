@@ -4,7 +4,7 @@ export const siteConfig: SiteConfig = {
 	// Used as both a meta property (src/components/BaseHead.astro L:31 + L:49) & the generated satori png (src/pages/og-image/[slug].png.ts)
 	author: "Brandon Baker",
 	// Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
-	title: "BB Würks",
+	title: "BB Werks",
 	// Meta property used as the default description meta property
 	description: "A blog about nothing, and something.",
 	// HTML lang property, found in src/layouts/Base.astro L:18

@@ -2,12 +2,18 @@
 import PageLayout from "@/layouts/Base";
 
 const meta = {
-	title: "Oops! You found a missing page!",
+	title: "Yikes! You found a missing page!",
 	description: "Oops! It looks like this page is lost in space!",
 };
 ---
 
 <PageLayout meta={meta}>
-	<h1 class="title mb-6">404 | Oops something went wrong</h1>
-	<p class="mb-8">Please use the navigation to find your way back</p>
+	<h1 class="title mb-6">404 | YIKES... Something went wrong</h1>
+	<p class="mb-8">
+		My bad, I can't find the page you're looking for. Please use the navigation to find your way
+		back.
+	</p>
+	<a href="/" class="btn"
+		>Better yet, click here to go <span class="text-accent sm:hover:underline">HOME</span></a
+	>
 </PageLayout>
