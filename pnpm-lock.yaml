@@ -1,12 +1,16 @@
-lockfileVersion: '6.0'
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 dependencies:
   '@astrojs/mdx':
     specifier: 2.0.0
     version: 2.0.0(astro@4.0.3)
   '@astrojs/rss':
-    specifier: 4.0.1
-    version: 4.0.1
+    specifier: 4.0.5
+    version: 4.0.5
   '@astrojs/sitemap':
     specifier: 3.0.3
     version: 3.0.3
@@ -265,8 +269,8 @@ packages:
       prismjs: 1.29.0
     dev: false
 
-  /@astrojs/rss@4.0.1:
-    resolution: {integrity: sha512-fzXWsrAp17atO02OZJETM8e8McRz+dNWzMeO7ENb6xgod2nWj5mH/auPBFs1a9FzMUi1nOQmzSPHO1hxZZpkwQ==}
+  /@astrojs/rss@4.0.5:
+    resolution: {integrity: sha512-IyJVL6z09AQtxbgLaAwebT3T5YKe4oTHDesqydJv1KLHw+zEzzMCFuuNsEyxjiqu7df9+DDCpDXLj/WRiEUXvw==}
     dependencies:
       fast-xml-parser: 4.3.2
       kleur: 4.1.5
@@ -7163,7 +7167,3 @@ packages:
   /zwitch@2.0.4:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
-
-settings:
-  autoInstallPeers: true
-  excludeLinksFromLockfile: false
